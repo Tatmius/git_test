@@ -7,3 +7,8 @@ I changed this text for "git push -u"
 Even if I push the changes of the text with "-u" option, there's no pull request
 
 I made fourth branch
+
+I'm editing test_branch. I'll push this to origin with "-u" option
+and then, I'll change fourth_branch and push it origin too.
+After that, I'll checkout test_branch again and see how "git pull works"
+
