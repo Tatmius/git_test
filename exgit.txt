@@ -1,1 +1,3 @@
 remote was set to git remote add origin https://github.com/Tatmius/git_test.git
+
+I made a new branch named test_branch to test how "git push" works
