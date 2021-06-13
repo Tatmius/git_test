@@ -1,3 +1,7 @@
 remote was set to git remote add origin https://github.com/Tatmius/git_test.git
 
 I made a new branch named test_branch to test how "git push" works
+
+I changed this text for "git push -u"
+
+Even if I push the changes of the text with "-u" option, there's no pull request 
